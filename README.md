@@ -1,3 +1,9 @@
+# 姓名：吴家豪
+# 学号：201930344015
+#前后端分离的网上商城项目
+#前端：Vue、ElementPlus
+#后端：SpringBoot、Mybatis-Plus
+
 # springboot-vue-demo
 
 ## Project setup
